@@ -1,0 +1,7 @@
+PORT=#sua porta
+
+DB_USERNAME=#nome do usuario do banco
+DB_PASSWORD=#senha banco
+DB_HOST=#host banco
+DB_PORT=#porta
+DB_DATABASE=#banco de dados
