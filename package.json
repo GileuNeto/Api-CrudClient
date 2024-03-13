@@ -7,7 +7,7 @@
     "dev": "npx nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gileu Neto",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
