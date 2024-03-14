@@ -24,9 +24,13 @@ async function atualizarClienteService(id, customer) {
     }
 }
 
-async function deletarClienteService(id) {
+async function deletarClienteService(id, res) {
     try {
-        await clienteRepository.deletarClienteRepository(id);
+        const deletedRows = await clienteRepository.deletarClienteRepository(id);
+        if (deletedRows === 0) {
+            return 'Cliente não encontrado';
+        }
+        return 'Cliente deletado com sucesso';
     } catch (error) {
         throw new Error(`Erro ao deletar cliente: ${error.message}`);
     }
