@@ -15,10 +15,6 @@ Uma api para fazer todas as fucionalidades de um CRUD
 
 Este projeto foi criado porque recebi um desafio, Então criei uma api em node.js 
 
-## Demonstração
-
-Inclua uma demonstração visual ou um link para uma demonstração ao vivo do projeto, se aplicável.
-
 ## Funcionalidades
 
     1. Criar
