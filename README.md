@@ -32,8 +32,11 @@ Após ter dado um clone no projeto, digite no terminal:
 ## Como Usar
 
 Após a intalaçao ultilize o comando
+
     - npm rum dev
-    API já vai estar pronta para uso :)
+    
+API já vai estar pronta para uso :)
+
 Então abra a sua ferramenta para testar a API
 
 ## Contato
