@@ -25,8 +25,9 @@ Este projeto foi criado porque recebi um desafio, Então criei uma api em node.j
 
 ## Instalação
 
-    Após ter dado um clone no projeto, digite no terminal:
-            - npm install
+Após ter dado um clone no projeto, digite no terminal:
+
+        - npm install
 
 ## Como Usar
 
